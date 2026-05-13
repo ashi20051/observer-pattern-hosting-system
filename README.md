@@ -135,7 +135,10 @@ observer.update(event);
 Each subscribed service automatically reacts.
 
 ---
+# 🏗️ Class Diagram
 
+![Observer Class Diagram](images/observer-class-diagram.png)
+---
 # 💻 Sample Output
 
 ```text
